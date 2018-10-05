@@ -13,7 +13,7 @@ body,p,a,h1,h2,h3,h4,ul,li {
 .card-img {
     display: block;
     width: 100% ;height: 100%;
-    background-image: url("pro.jpg");
+    background-image: url("images/pro.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     transition: background-position-y .5s;
@@ -41,7 +41,8 @@ body,p,a,h1,h2,h3,h4,ul,li {
 }
 
 .text-overlay > .button {
-    display: inline-block;
+    display: block;
+    text-align: center;
     text-decoration: none;
     color: inherit;
     padding: 5px; margin: 10px;
@@ -53,4 +54,19 @@ body,p,a,h1,h2,h3,h4,ul,li {
 .button:hover {
     background-color: cornsilk;
     color: rgb(66, 66, 66);
+}
+
+.socialmedia {
+    text-align: center;
+}
+
+.text-overlay .logo {
+    display: inline-block;
+    padding: 8px;
+    width: 30px;
+    transition: transform .2s;
+}
+
+.logo:hover {
+    transform: scale(1.1);
 }
