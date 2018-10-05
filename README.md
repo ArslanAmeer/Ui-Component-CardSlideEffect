@@ -8,7 +8,7 @@ Basic Simple and Easy To Use. 😎
 ---
 ![](images/demo.gif)
 
-![TRY HERE](https://arslanameer.github.io/Ui-Component-CardSlideEffect/) 😍
+[TRY HERE](https://arslanameer.github.io/Ui-Component-CardSlideEffect/) 😍
 ---
 [ © Copyrights [Arslan Ameer](http://www.arslanameer.cf/) ]
 
